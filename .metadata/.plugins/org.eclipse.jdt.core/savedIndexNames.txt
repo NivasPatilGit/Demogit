@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/nivas/java terminal/gitspace/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+2810682177.index
+2957333371.index
